@@ -19,6 +19,7 @@ class timeframes:
     MINUTE_1 = '1m'
     MINUTE_3 = '3m'
     MINUTE_5 = '5m'
+    MINUTE_10 = '10m'
     MINUTE_15 = '15m'
     MINUTE_30 = '30m'
     MINUTE_45 = '45m'
